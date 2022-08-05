@@ -11,7 +11,9 @@ Safety of autonomous vehicles has been a matter concern lately. The autopilot sy
 
 ### Scenario Generation
 <img src="figures/pipeline.png">
-Figure 1: Framework of adversarial scenario generation; (a) Sensor module, (b) Perception module, (c) Adversarial attack module
+<p align="center">
+  Figure 1: Framework of adversarial scenario generation; (a) Sensor module, (b) Perception module, (c) Adversarial attack module
+ </p>
 
 ### Generation of Adversarial Images
 <img src="figures/pgd_attack.png">
