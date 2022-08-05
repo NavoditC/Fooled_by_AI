@@ -1,2 +1,3 @@
-# Fooled_by_AI
-This repository contains the dataset and the code for adversarial attack and defense used for the course project titled "Modeling and Study of Adversarial Attack Arising from Deceiving Perception in Car Autopilot" done as a part of the course - Trustworthy AI Autonomy at CMU in Spring 2022.
+# Modeling and Study of Adversarial Attack Arising from Deceiving Perception in Car Autopilot
+
+## [Report](https://drive.google.com/file/d/1oDLT-tGFP5JlN1V_EiNY9McwMdqJnAYp/view) | [Video](https://drive.google.com/drive/folders/1RHFFfsBU5HvBgxWah8wbz85v0oewqMZr) | [Poster](https://drive.google.com/file/d/1oSgPL7so0WGtu6o-KZZhvHtjLGk7Jyvf/view)
