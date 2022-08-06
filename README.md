@@ -39,11 +39,11 @@ Safety of autonomous vehicles has been a matter concern lately. The autopilot sy
   <img src="figures/lunar_cycle.png">
   Figure 5: Effect of lunar cycle on probability of autopilot failure. Big corresponds to size of moon when closest to earth and small corresponds to 50% of the full size.
 
-
+<br />
   <img src="figures/size_of_moon.png">
   Figure 6: Effect of size of moon as perceived from car sensor on autopilot failure
 
-
+<br />
   <img src="figures/color_of_moon.png">
   Figure 7: Effect of color of moon on autopilot failure
 </p>
@@ -53,7 +53,7 @@ Safety of autonomous vehicles has been a matter concern lately. The autopilot sy
   <img src="figures/randomized_padding.png">
   Figure 8: Randomized padding boosts adversarial defense in car autopilot
 
-
+<br />
   <img src="figures/adversarial_training.png">
   Figure 9: Adversarial training used to make the ResNet-18 neural network architecture robust to PGD attack
 </p>
